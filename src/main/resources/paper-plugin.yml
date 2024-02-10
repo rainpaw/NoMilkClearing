@@ -1,7 +1,7 @@
 name: NoMilkClearing
 version: '${project.version}'
 main: net.rainpaw10.nomilkclearing.NoMilkClearing
-description: A mod that removes the ability for milk to clear specific effects.
+description: A plugin that removes the ability for milk to clear specific effects.
 authors: [
   rainpaw10
 ]
